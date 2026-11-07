@@ -93,4 +93,4 @@ To deploy the schema to your free Supabase instance:
 
 ## 📄 License
 Apache-2.0
-ChalMeter – Production deployment configuration update
+ChalMeter – Production deployment configuration update.
